@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Only you",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-19T09:50:25.562370Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only You (Can Break My Heart)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/01_Only_You_(Can_Break_My_Heart)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only You Can Love Me This Way",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Only_You_Can_Love_Me_This_Way_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/03_Only_You_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Only You - Instrumental",
+      "artist": "Metro Boomin",
+      "has_synced": false,
+      "path": "select/04_Only_You_-_Instrumental_Metro_Boomin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Metro Boomin feat. J Balvin, WizKid & Offset",
+      "has_synced": true,
+      "path": "select/05_Only_You_Metro_Boomin_feat._J_Balvin,_WizKid_&_Offset.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Only You (feat. Wizkid, Offset & J Balvin)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/06_Only_You_(feat._Wizkid,_Offset_&_J_Balvin)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honkide Only You (Let's Get Married)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/07_Honkide_Only_You_(Let's_Get_Married)_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/08_Only_You_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_Only_You_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only You Know",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/10_Only_You_Know_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/11_Only_You_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only You - 2006 Remaster",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/12_Only_You_-_2006_Remaster_Chicago.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Fragma",
+      "has_synced": true,
+      "path": "select/13_Only_You_Fragma.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Lasgo",
+      "has_synced": false,
+      "path": "select/14_Only_You_Lasgo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Only You Can Make You Happy",
+      "artist": "Au Revoir Simone",
+      "has_synced": true,
+      "path": "select/15_Only_You_Can_Make_You_Happy_Au_Revoir_Simone.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Only Us",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/16_Only_Us_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Only Us",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/17_Only_Us_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/18_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/19_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Only Human",
+      "artist": "Jonas Brothers",
+      "has_synced": true,
+      "path": "select/20_Only_Human_Jonas_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Only Love Can Hurt Like This",
+      "artist": "Paloma Faith",
+      "has_synced": true,
+      "path": "select/21_Only_Love_Can_Hurt_Like_This_Paloma_Faith.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/22_Am_I_The_Only_One_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/23_Am_I_The_Only_One_Who_Cares_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/24_Am_I_The_Only_One_Who_Cares_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way?)",
+      "artist": "Maria McKee",
+      "has_synced": true,
+      "path": "select/25_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way_)_Maria_McKee.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way)",
+      "artist": "PAUL WORLEY",
+      "has_synced": true,
+      "path": "select/26_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way)_PAUL_WORLEY.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I'm the Only Hell (Mama Ever Raised)",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/27_I'm_the_Only_Hell_(Mama_Ever_Raised)_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/28_If_I_Could_Only_Win_Your_Love_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love (2008 Remaster)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/29_If_I_Could_Only_Win_Your_Love_(2008_Remaster)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love (2008 Remastered Album Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/30_If_I_Could_Only_Win_Your_Love_(2008_Remastered_Album_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/31_If_I_Could_Only_Win_Your_Love_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "If I Had Only Known",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/32_If_I_Had_Only_Known_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/33_It_Only_Hurts_When_I_Cry_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry (Remastered Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/34_It_Only_Hurts_When_I_Cry_(Remastered_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only you",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_Only_you_モーニング娘。.txt"
+    }
+  ]
+}
